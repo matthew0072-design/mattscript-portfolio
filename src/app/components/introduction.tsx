@@ -13,7 +13,7 @@ export default function Introduction(){
                 
             </div>
             <div className=''>
-                <Image src="/matt_removebg.png" alt="my pics" width={300} height={300} className='w-[200px] h-[200px] md:w-[280px] md:h-[280px] lg:w-[400px] lg:h-[400px] rounded-full border-2 border-green-400 ' />
+                <Image src="/matt_removebg.png" priority alt="my pics" width={300} height={300} className='w-[200px] h-[200px] md:w-[280px] md:h-[280px] lg:w-[400px] lg:h-[400px] rounded-full border-2 border-green-400 ' />
             </div>
         </main>
     )
