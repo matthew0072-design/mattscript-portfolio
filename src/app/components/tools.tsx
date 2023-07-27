@@ -14,7 +14,7 @@ export default function Tools(){
 
                     </div>
                     <div className="bg-black   rounded-2xl text-center flex p-4    items-center gap-2 lg:gap-4 ">
-                        <Image src="/css.png" alt="html" width={300} height={300} className='w-5 h-4 md:w-8 md:h-8 lg:w-10 lg:h-10  ' />
+                        <Image src="/css.png" alt="css" width={300} height={300} className='w-5 h-4 md:w-8 md:h-8 lg:w-10 lg:h-10  ' />
                         <p className=''> CSS</p>
                     </div>
                     <div className="bg-black  rounded-2xl flex  p-4 items-center gap-2 lg:gap-4 ">
