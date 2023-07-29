@@ -6,7 +6,7 @@ import Connect from "./components/connect"
 
 export default function Home() {
   return (
-    <main className=" ">
+    <main className="overflow-y-auto  ">
      <Introduction />
      <Tools />
     <ShowRoom />

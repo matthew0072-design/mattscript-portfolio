@@ -10,7 +10,7 @@ export default function ShowRoom(){
             </div>
             <div className='flex flex-col w-full '>
                 <div className="flex items-center justify-center " >
-                    <Image src="/lautech.png" alt="lautech" width={300} height={300} className="w-[95%] md:w-[700px] h-[300px] opacity-70 "  />
+                    <Image src="/lautech.svg" alt="lautech" width={300} height={300} className="w-[95%] md:w-[700px] h-[300px] opacity-70 "  />
                     
                 </div>
                 <div className='w-[95%] bg-white text-black md:h-[250px] md:w-[700px] rounded-b-2xl flex justify-center items-center leading-8 flex-col m-auto font-exoSpace text-lg font-semibold p-4 '>
